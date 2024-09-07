@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ahsen Bulbul
 - 👀 I’m interested in artificial intelligence
 - 🌱 I’m currently learning python 😼
-- 📫 How to reach me ahsenbulbul21@mgail.com
+- 📫 How to reach me ahsenbulbul21@gmail.com
 - ⚡ Fun fact: I love java 🥰🥰 (lie)
 
 <!---
